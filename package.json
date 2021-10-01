@@ -1,7 +1,7 @@
 {
   "name": "process-wrapper",
   "version": "1.0.0",
-  "main": "index.ts",
+  "main": "ProcessWrapper.ts",
   "repository": "https://github.com/StavrosChryselis/process-wrapper",
   "license": "MIT",
   "dependencies": {
